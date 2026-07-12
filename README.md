@@ -13,4 +13,4 @@ This project uses publicly available datasets. Please download the following dat
 
 Framingham Heart Study Dataset
 UCI Heart Disease Dataset
-Kaggle Cardiovascular Disease Dataset (cardio_train.csv)
+Kaggle Cardiovascular Disease Dataset (cardio_train.csv).
